@@ -1,10 +1,32 @@
-*{
+* {
     margin: 0px;
     font-family: "Calibri";
     color: #eee;
 }
 
-.container{
+a:link {
+    text-decoration: none;
+    color: rgb(248, 90, 17);
+    transition: 0.2s;
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(248, 90, 17);
+}
+
+a:hover {
+    color: rgb(255, 8, 131);
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+a:active {
+    text-decoration: none;
+    color: rgb(248, 90, 17);
+}
+
+.container {
     background-color: rgb(19, 19, 19);
     background-image: url('https://wallpapers.com/images/hd/spooky-cemetery-and-trees-sb04moamff99tesn.webp');
     background-repeat: no-repeat;
@@ -16,7 +38,7 @@
     overflow: auto;
 }
 
-.header{
+.header {
     font-family: "Sixtyfour Convergence";
     width: 100%;
     font-size: 48pt;
@@ -24,12 +46,22 @@
     margin-top: 15px;
 }
 
-.infobox{
+.infobox {
     background-color: rgba(0, 0, 0, 0.4);
     padding: 30px;
     border-radius: 30px;
-    margin:25px;
+    margin: 25px;
     backdrop-filter: blur(25px);
     -webkit-backdrop-filter: blur(25px);
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.7);
-} 
+}
+
+.button{
+    padding:10px;
+    background-color: rgba(27, 27, 27, 0.9);
+    border-radius: 5px;
+    transition: 0.2s;
+}
+.button:hover{
+    background-color: rgba(56, 5, 5, 0.623);
+}
