@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    font-family: "Calibri";
+    color: #eee;
+}
+
+.container{
+    background-color: rgb(19, 19, 19);
+    background-image: url('https://wallpapers.com/images/hd/spooky-cemetery-and-trees-sb04moamff99tesn.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+}
+
+.header{
+    font-family: "Sixtyfour Convergence";
+    width: 100%;
+    font-size: 48pt;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.infobox{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    border-radius: 30px;
+    margin:25px;
+}
