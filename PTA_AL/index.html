@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PTA - Arlene</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body background="../images/bg.png">
+        <div class="email-client">
+            <header>
+                <h1>PTA Messaging System</h1>
+                <p>Welcome, Agent Arlene Laroche</p>
+            </header>
+
+            <div class="main-interface">
+                <div class="inbox">
+                    <h2>Inbox</h2>
+                    <ul id="inbox-list">
+                        <li onclick="openEmail(1)">RE: PTA-INS-05</li>
+                        <li onclick="openEmail(2)">RE: GV ASSEMBLY</li>
+                        <li onclick="openEmail(3)">RE: PTA-ACTIVATION</li>
+                    </ul>
+                </div>
+
+                <div class="email-content">
+                    <h2>Email Preview</h2>
+                    <div id="message-content">
+                        <p>Select an email from the list to view its content.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="javascript/email.js"></script>
+
+    </body>
+</html>
