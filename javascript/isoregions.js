@@ -8,8 +8,22 @@ function handleLogin(event) {
     // Check the credentials
     if(username === 'pta_AID47321896x39' && password === 'PlumBlossoms_N3verDie'){
         // Redirect to the landing page
-        window.location.href = 'aiden/index.html';
+        window.location.href = 'PTA/Aidn/index.html';
+    } else if(username === 'pta_CDR51999545x39' && password === 'APlaceICan\'tCallHome'){
+        window.location.href = 'PTA/Killy/index.html';
     } else{
-        window.location.href = 'usg.html';
+        return;
     }
+}
+
+// Event listener for the enter key
+function checkEnterKey(event){
+    if(event.key === 'Enter'){
+        handleLogin(event);
+    }
+}
+
+window.onload = function() {
+    document.getElementById('username').addEventListener('keydown', checkEnterKey);
+    document.getElementById('password').addEventListener('keydown', checkEnterKey);
 }
