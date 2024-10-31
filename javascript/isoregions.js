@@ -11,6 +11,8 @@ function handleLogin(event) {
         window.location.href = 'PTA/Aidn/index.html';
     } else if(username === 'pta_CDR51999545x39' && password === 'APlaceICan\'tCallHome'){
         window.location.href = 'PTA/Killy/index.html';
+    } else if(username === 'gclarke@army.gov' && password === 'XFtn45Astc'){
+        window.location.href = 'USG/Clarke/index.html';
     } else{
         return;
     }

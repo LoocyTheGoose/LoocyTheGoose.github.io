@@ -18,7 +18,7 @@ Gen. Landon Harlowe.`
         body: `Cmdr. Laroche,<br /><br />
         
 An assembly area has been constructed in Goreville, Maryland.<br />
-Grid Ref: <b>18SUH40962997</b><br /><br />
+Grid Ref: <b>18SUH18985854</b><br /><br />
 
 You will take your team and secure the remaining civilians in Trelai and transport them to this destination.<br />
 Casualties must be kept to a minimum. Give these civilians assistance to clear the area, then provide them with
