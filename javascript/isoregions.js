@@ -13,6 +13,8 @@ function handleLogin(event) {
         window.location.href = 'PTA/Killy/index.html';
     } else if(username === 'gclarke@army.gov' && password === 'XFtn45Astc'){
         window.location.href = 'USG/Clarke/index.html';
+    } else if(username === 'jranger@army.gov' && password === 'AK&239$ntA'){
+        window.location.href = 'USG/Ranger/index.html';
     } else{
         return;
     }

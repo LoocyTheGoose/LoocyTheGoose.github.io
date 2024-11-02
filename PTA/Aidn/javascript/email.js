@@ -1,44 +1,9 @@
 const messages = {
     1: {
-        subject: "PTA-INS-05",
-        body: `Cmdr. Laroche,<br /><br />
-        
-Good work on securing civilians.<br /><br />
-
-X-39 continues to develop at an alarming rate. We have identified antibodies in several civilians in other QZs
-indicating varying levels of natural immunity to the weapon which may prove useful to you as more civilians
-succumb to the airborne strain.<br /><br />
-
-Continue to monitor civilians and offer aid for the time being. Await further instruction.<br /><br />
-
-Gen. Landon Harlowe.`
-    },
-    2: {
-        subject: "GV ASSEMBLY",
-        body: `Cmdr. Laroche,<br /><br />
-        
-An assembly area has been constructed in Goreville, Maryland.<br />
-Grid Ref: <b>18SUH40962997</b><br /><br />
-
-You will take your team and secure the remaining civilians in Trelai and transport them to this destination.<br />
-Casualties must be kept to a minimum. Give these civilians assistance to clear the area, then provide them with
-basic means to defend themselves. With the situation at hand, we don't expect you to be looking over their shoulder,
-but there won't be much of a country to go back to if they all die.<br /><br />
-
-Assist how you can. You will have resources available to you for the time being, however, we are rationing you
-amongst 51 other quarantine areas. Do your best with the resources you have in the immediate area.<br /><br />
-
-Ensure you and your team are following quarantine protocol. Be aware of toxic zones - Your latest shipment has
-provided you with masks and filters capable of filtering both organic and inorganic contaminants from the air.
-Keep in mind these filters are designed with single-use in mind. Replace them once opened and used.
-
-Stay safe out there agent.
-Gen. Landon Harlowe.`
-    },
-    3: {
         subject: "X-39 Acquired",
-        body: `penelopeharkness@pta.gov | 1969-07-21 @ 4:27pm<br />
-        <blockquote>
+        body: `<blockquote>
+        penelopeharkness@pta.gov | 1969-07-21 @ 4:27pm<br />
+        
             Good evening Aiden,<br /><br />
 
             I’m aware you’ve heard the acquisition of X-39.<br /><br />
@@ -55,6 +20,8 @@ Gen. Landon Harlowe.`
             Regards,<br />
             Penelope H.
             <blockquote>
+                aidendean@pta.gov | 1969-07-21 @ 5:02pm<br />
+
                 Evening Mrs. Penelope,<br /><br />
 
                 I have read through the reports of X-39.<br /><br />
@@ -70,6 +37,8 @@ Gen. Landon Harlowe.`
                 Regards,<br />
                 Dean A.
                 <blockquote>
+                    penelopeharkness@pta.gov | 1969-08-03 @ 8:22am<br />
+
                     Hello Aiden,<br /><br />
 
                     Please confirm patient name is “Chen”. Dr. Langford has since chewed me out for misreading the name sheet.<br /><br />
@@ -83,6 +52,7 @@ Gen. Landon Harlowe.`
                     Regards,<br />
                     Penelope H.
                     <blockquote>
+                        aidendean@pta.gov | 1969-08-03 @ 9:41am<br />
                         Mrs. Penelope<br />
                         Dr. Langford is correct, the patient of X-39 is Dr. Chen.<br /><br />
 
