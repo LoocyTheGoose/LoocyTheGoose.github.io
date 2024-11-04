@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>403 - Access Denied</title>
+    <style>
+        /* Set up a full-screen, centered display */
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            color: white;
+            font-size: 3em;
+            font-weight: bold;
+            background: linear-gradient(45deg, #ff7e5f, #86a8e7, #ffb88c, #c4e17f, #d3a4fc);
+            background-size: 400% 400%;
+            animation: gradient 8s ease infinite;
+            text-align: center;
+        }
+
+        /* Animate the gradient background */
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        /* Style for the emote */
+        .emote {
+            font-size: 2em;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    Nuh uh, that's a 403
+    <div class="emote">☝️</div>
+</body>
+</html>
