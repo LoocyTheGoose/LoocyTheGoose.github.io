@@ -1,7 +1,7 @@
 const messages = {
     1: {
         subject: "PTA-INS-05",
-        body: `Cmdr. Laroche,<br /><br />
+        body: `1999/09/15 @4:07pm<br />Cmdr. Laroche,<br /><br />
         
 Good work on securing civilians.<br /><br />
 
@@ -15,7 +15,7 @@ Gen. Landon Harlowe.`
     },
     2: {
         subject: "GV ASSEMBLY",
-        body: `Cmdr. Laroche,<br /><br />
+        body: `1999/08/22 @9:45am<br />Cmdr. Laroche,<br /><br />
         
 An assembly area has been constructed in Goreville, Maryland.<br />
 Grid Ref: <b>18SUH18985854</b><br /><br />
@@ -37,7 +37,7 @@ Gen. Landon Harlowe.`
     },
     3: {
         subject: "PTA-ACTIVATION",
-        body: `Mrs. Laroche,<br /><br />
+        body: `1999/07/05 @11:42am<br />Mrs. Laroche,<br /><br />
 
 We regret to inform you that the day has come.<br /><br />
 
