@@ -1,7 +1,7 @@
 const messages = {
     1: {
         subject: "## Evacuation Procedure ##",
-        body: `Civilians must be inspected for the following markers:<br />
+        body: `1999/08/13 @ 6:15am<br />Civilians must be inspected for the following markers:<br />
 
         <ul>
             <li>Recent injuries which pierce the skin</li>
@@ -29,20 +29,20 @@ const messages = {
 
         Departure Times:
         <ul>
-            <li>05/15/1999 - 0600hrs</li>
-            <li>05/15/1999 - 0700hrs</li>
-            <li>05/15/1999 - 1000hrs</li>
-            <li>05/15/1999 - 1100hrs</li>
-            <li>05/15/1999 - 1400hrs</li>
-            <li>05/15/1999 - 1500hrs</li>
-            <li>05/15/1999 - 1800hrs</li>
-            <li>05/15/1999 - 1900hrs</li>
-            <li>05/15/1999 - 2100hrs</li>
-            <li>05/16/1999 - 0000hrs</li>
-            <li>05/16/1999 - 0100hrs</li>
-            <li>05/16/1999 - 0400hrs</li>
-            <li>05/16/1999 - 0500hrs</li>
-            <li>05/16/1999 - 0600hrs</li>
+            <li>1999/08/15 - 0600hrs</li>
+            <li>1999/08/15 - 0700hrs</li>
+            <li>1999/08/15 - 1000hrs</li>
+            <li>1999/08/15 - 1100hrs</li>
+            <li>1999/08/15 - 1400hrs</li>
+            <li>1999/08/15 - 1500hrs</li>
+            <li>1999/08/15 - 1800hrs</li>
+            <li>1999/08/15 - 1900hrs</li>
+            <li>1999/08/15 - 2100hrs</li>
+            <li>1999/08/16 - 0000hrs</li>
+            <li>1999/08/16 - 0100hrs</li>
+            <li>1999/08/16 - 0400hrs</li>
+            <li>1999/08/16 - 0500hrs</li>
+            <li>1999/08/16 - 0600hrs</li>
         </ul>
 
         Those not airlifted will be forced to fend for themselves. PTA emergency activation has occurred and a gathering point has been made in

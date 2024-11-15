@@ -1,7 +1,7 @@
 const messages = {
     1: {
         subject: "## Report Evacuation Status ##",
-        body: `Attn. Goreville USAF Military Airfield<br /><br />
+        body: `1999/08/16 @5:35am<br />Attn. Goreville USAF Military Airfield<br /><br />
         
         Status not received. Please advise confirmation of evacuation order.<br /><br />
         
@@ -10,7 +10,7 @@ const messages = {
     },
     2: {
         subject: "## EVACUATE ##",
-        body: `Attn. Goreville USAF Military Airfield<br /><br />
+        body: `1999/08/10 @5:40pm<br />Attn. Goreville USAF Military Airfield<br /><br />
         
         Civilians are to be evacuated from Goreville immediately.<br /><br />
         
@@ -23,7 +23,7 @@ const messages = {
     },
     3: {
         subject: "Branch Recognition",
-        body: `<b>Authority#184-24-39</b><br /><br />
+        body: `1999/07/19 @9:52am<br /><b>Authority#184-24-39</b><br /><br />
         
         Attn. Goreville USAF Military Airfield<br /><br />
         
