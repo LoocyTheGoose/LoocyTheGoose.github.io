@@ -82,7 +82,7 @@ Gen. Landon Harlowe.`
     },
     5: {
         subject: "NEW LOGIN DETECTED",
-        body: `<b>A login was detected from a new terminal</b><br /><br />
+        body: `1999/11/08 @ 11:12pm<br /><b>A login was detected from a new terminal</b><br /><br />
         Location: Goreville, Maryland, USA<br /><br />
         
         If this wasn't you, please update your credentials as soon as possible.`
