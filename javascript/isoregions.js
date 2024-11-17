@@ -10,7 +10,12 @@ function handleLogin(event) {
         // Redirect to the landing page
         window.location.href = 'PTA/Aidn/index.html';
     } else if(username === 'pta_CDR51999545x39' && password === 'APlaceICan\'tCallHome'){
-        window.location.href = 'PTA/Killy/index.html';
+        const messageDiv = document.getElementById("message");
+        const errorMessage = document.createElement("p");
+        errorMessage.textContent = "This account is locked. Activity and location recorded.";
+        errorMessage.classList.add("error-message");
+        messageDiv.appendChild(errorMessage);
+        //window.location.href = 'PTA/Killy/index.html';
     } else if(username === 'gclarke@army.gov' && password === 'XFtn45Astc'){
         window.location.href = 'USG/Clarke/index.html';
     } else if(username === 'jranger@army.gov' && password === 'AK&239$ntA'){
